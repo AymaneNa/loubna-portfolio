@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Éléments de solution/">
+    <File Path="contact.html" />
+    <File Path="contact.php" />
+    <File Path="index.html" />
+    <File Path="projects.html" />
+    <File Path="script.js" />
+    <File Path="style.css" />
+  </Folder>
+</Solution>
